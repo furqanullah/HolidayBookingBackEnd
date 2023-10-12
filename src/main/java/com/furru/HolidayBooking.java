@@ -7,8 +7,8 @@ import org.springframework.context.annotation.PropertySource;
 @SpringBootApplication
 @PropertySource(value = { "classpath:messages.properties" })
 public class HolidayBooking {
-
 	public static void main(String[] args) {
+
 		SpringApplication.run(HolidayBooking.class, args);
 	}
 

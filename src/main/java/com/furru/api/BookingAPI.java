@@ -56,15 +56,3 @@ public ResponseEntity<DestinationDTO> getDestination(@PathVariable String destin
 }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
